@@ -45,7 +45,7 @@
 <br>
 💚 خرید وی پی ان ⤹ کلیک کنید ↓
 <br>
-<a dir="rtl" target="_blank" href="https://google.com/pricing.php" rel="dofollow" dir="rtl" align="right"> ☑️ https://multivpd.site/pricing.php </a>
+<a dir="rtl" target="_blank" href="https://google.com/pricing.php" rel="dofollow" dir="rtl" align="right"> ☑️ https://google.com/pricing.php </a>
 <br> &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ &nbsp;&nbsp;&nbsp; ⥣ 
 
 
