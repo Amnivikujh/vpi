@@ -71,3 +71,5 @@ vpn خرید برای ایفون
 اکانت وی پی ان
 اکانت پی وی پی ان
 </div>
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11396515522"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-11396515522'); </script>
+
